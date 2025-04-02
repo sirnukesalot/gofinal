@@ -9,7 +9,7 @@ require (
 	github.com/stretchr/testify v1.8.1
 	gorm.io/driver/mysql v1.4.7
 	gorm.io/driver/sqlite v1.4.4
-	gorm.io/gorm v1.24.5
+	gorm.io/gorm v1.25.12
 )
 
 require (
@@ -35,7 +35,7 @@ require (
 	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
